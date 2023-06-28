@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://firstlaw.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'First Law of Robotics'
 theme = "terminal"
 
 [params]
