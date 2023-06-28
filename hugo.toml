@@ -1,7 +1,7 @@
 baseURL = 'https://firstlaw.io/'
 languageCode = 'en-us'
 title = 'First Law of Robotics'
-theme = "terminal"
+theme = "binario"
 
 [params]
   # dir name of your main content (default is `content/posts`).
@@ -46,7 +46,7 @@ theme = "terminal"
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "First Law of Robotics"
     subtitle = "A simple, retro theme for Hugo"
     owner = ""
     keywords = ""
@@ -58,7 +58,7 @@ theme = "terminal"
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "First Law of Robotics"
       logoHomeLink = "/"
 
     [languages.en.menu]
