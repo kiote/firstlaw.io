@@ -1,6 +1,6 @@
 ---
-title: "Multitasking. The Myth of Getting More Done"
-date: 2023-07-18T14:10:21+03:00
+title: "Multitasking: The Myth of Getting More Done"
+date: 2023-07-17T14:10:21+03:00
 draft: false
 tags: ["productivity"]
 ---
