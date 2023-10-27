@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>software development on First Law of Robotics</title>
+    <link>https://firstlaw.io/tags/software-development/</link>
+    <description>Recent content in software development on First Law of Robotics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 28 Jun 2023 14:10:21 +0300</lastBuildDate><atom:link href="https://firstlaw.io/tags/software-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is RFCs and how to use them</title>
+      <link>https://firstlaw.io/posts/rfc/</link>
+      <pubDate>Wed, 28 Jun 2023 14:10:21 +0300</pubDate>
+      
+      <guid>https://firstlaw.io/posts/rfc/</guid>
+      <description>Today my colleague shared that they started to use RFCs inside of their development team. I was surprised in a way that I thought &amp;ldquo;why it&amp;rsquo;s not a common practice?&amp;rdquo;. I know that it&amp;rsquo;s not a common practice because I never used it in my previous companies. But I think it&amp;rsquo;s a good practice and I want to share it with you.
+What is RFC? RFC stands for Request for Comments.</description>
+    </item>
+    
+  </channel>
+</rss>

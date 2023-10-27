@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PhD on First Law of Robotics</title>
+    <link>https://firstlaw.io/tags/phd/</link>
+    <description>Recent content in PhD on First Law of Robotics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 28 Jun 2023 14:10:21 +0300</lastBuildDate><atom:link href="https://firstlaw.io/tags/phd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why to make PhD while working full-time</title>
+      <link>https://firstlaw.io/posts/why-to-phd/</link>
+      <pubDate>Wed, 28 Jun 2023 14:10:21 +0300</pubDate>
+      
+      <guid>https://firstlaw.io/posts/why-to-phd/</guid>
+      <description>How it started My PhD journey started in 2022. I was working full-time as a software engineer and I was doing my masters part-time. The masters journey was challanging but doable, and I finished cum laude. So I started to talk with other PhD students, why they are doing it, how they do it, etc. Appeared, that everyone has their own reasons and their own way of doing it. The main reasons for my peers were the interest in the topic and the desire to learn more about the topic.</description>
+    </item>
+    
+  </channel>
+</rss>
