@@ -9,7 +9,7 @@ A few months ago I rented a Bolt van, and at the end of my trip I got a score: 9
 
 I don't have any insider info on how Bolt's scoring works, so think of this as me working through the question out loud rather than any kind of legal verdict.
 
-![Bolt ride summary showing a 97/100 driving score](/images/bolt-score.png)
+![Bolt ride summary showing a 97/100 driving score](/images/photo_2026-01-03%2013.41.23.jpeg)
 
 ## Wait, What's the EU AI Act Again?
 
