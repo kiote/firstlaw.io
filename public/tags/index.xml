@@ -4,35 +4,51 @@
     <title>Tags on First Law of Robotics</title>
     <link>https://firstlaw.io/tags/</link>
     <description>Recent content in Tags on First Law of Robotics</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 17 Jul 2023 14:10:21 +0300</lastBuildDate><atom:link href="https://firstlaw.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://firstlaw.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>productivity</title>
+      <title>AI</title>
+      <link>https://firstlaw.io/tags/ai/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://firstlaw.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>EU AI Act</title>
+      <link>https://firstlaw.io/tags/eu-ai-act/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://firstlaw.io/tags/eu-ai-act/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Regulation</title>
+      <link>https://firstlaw.io/tags/regulation/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://firstlaw.io/tags/regulation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software Development</title>
+      <link>https://firstlaw.io/tags/software-development/</link>
+      <pubDate>Fri, 27 Oct 2023 14:10:21 +0300</pubDate>
+      <guid>https://firstlaw.io/tags/software-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Productivity</title>
       <link>https://firstlaw.io/tags/productivity/</link>
       <pubDate>Mon, 17 Jul 2023 14:10:21 +0300</pubDate>
-      
       <guid>https://firstlaw.io/tags/productivity/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>PhD</title>
       <link>https://firstlaw.io/tags/phd/</link>
       <pubDate>Wed, 28 Jun 2023 14:10:21 +0300</pubDate>
-      
       <guid>https://firstlaw.io/tags/phd/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>software development</title>
-      <link>https://firstlaw.io/tags/software-development/</link>
-      <pubDate>Wed, 28 Jun 2023 14:10:21 +0300</pubDate>
-      
-      <guid>https://firstlaw.io/tags/software-development/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

@@ -4,48 +4,51 @@
     <title>First Law of Robotics</title>
     <link>https://firstlaw.io/</link>
     <description>Recent content on First Law of Robotics</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 17 Jul 2023 14:10:21 +0300</lastBuildDate><atom:link href="https://firstlaw.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://firstlaw.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>So Bolt Gave Me a Driving Score. Now I Have Questions.</title>
+      <link>https://firstlaw.io/posts/bolt-driving-score/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://firstlaw.io/posts/bolt-driving-score/</guid>
+      <description>&lt;p&gt;A few months ago I rented a Bolt van, and at the end of my trip I got a score: 97/100 for my driving style. Cool, I guess? But here&amp;rsquo;s the thing — I&amp;rsquo;ve been digging into the EU AI Act for my research, and this little number got me curious. Where does a system like this actually fall under the new rules?&lt;/p&gt;&#xA;&lt;p&gt;I don&amp;rsquo;t have any insider info on how Bolt&amp;rsquo;s scoring works, so think of this as me working through the question out loud rather than any kind of legal verdict.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What is the difference between middle and senior developer?</title>
+      <link>https://firstlaw.io/posts/mid-senior-dev/</link>
+      <pubDate>Fri, 27 Oct 2023 14:10:21 +0300</pubDate>
+      <guid>https://firstlaw.io/posts/mid-senior-dev/</guid>
+      <description>&lt;p&gt;Software development is not just a profession; it&amp;rsquo;s an art, a science, and a journey. At different stages of this journey, we find ourselves with varying levels of expertise and problem-solving skills. A frequent question that comes up is, what sets a senior developer apart from a middle-level developer? The answer may surprise you: It&amp;rsquo;s less about the code you write and more about the problems you solve.&lt;/p&gt;&#xA;&lt;h2 id=&#34;defining-roles&#34;&gt;Defining Roles&lt;/h2&gt;&#xA;&lt;p&gt;Middle Developers: Generally, middle developers are proficient in coding and can build features, fix bugs, and understand the project at a reasonable depth. They are essential team members who contribute significantly to the codebase.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Multitasking: The Myth of Getting More Done</title>
       <link>https://firstlaw.io/posts/multitasking-myths/</link>
       <pubDate>Mon, 17 Jul 2023 14:10:21 +0300</pubDate>
-      
       <guid>https://firstlaw.io/posts/multitasking-myths/</guid>
-      <description>Multitasking is a common practice in today&amp;rsquo;s world. We are constantly bombarded with information and stimuli, and it can seem like the only way to keep up is to do more than one thing at a time. However, research has shown that multitasking is actually less productive than focusing on one task at a time.
-When we multitask, our brains have to constantly switch gears between tasks. This takes time and effort, and it can lead to errors and mistakes.</description>
+      <description>&lt;p&gt;Multitasking is a common practice in today&amp;rsquo;s world. We are constantly bombarded with information and stimuli, and it can seem like the only way to keep up is to do more than one thing at a time. However, research has shown that multitasking is actually less productive than focusing on one task at a time.&lt;/p&gt;&#xA;&lt;p&gt;When we multitask, our brains have to constantly switch gears between tasks. This takes time and effort, and it can lead to errors and mistakes. In addition, multitasking can reduce our focus and concentration, making it difficult to complete any task well. Research also show that multitasking can lead to stress and anxiety, which can have a negative impact on our health and well-being.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>About</title>
       <link>https://firstlaw.io/about/</link>
       <pubDate>Wed, 28 Jun 2023 17:02:39 +0300</pubDate>
-      
       <guid>https://firstlaw.io/about/</guid>
-      <description>First Law of Robotics: A robot may not injure a human being or, through inaction, allow a human being to come to harm.
-Second Law of Robotics: A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.
-Third Law of Robotics: A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.</description>
+      <description>&lt;p&gt;First Law of Robotics: A robot may not injure a human being or, through inaction, allow a human being to come to harm.&lt;/p&gt;&#xA;&lt;p&gt;Second Law of Robotics: A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.&lt;/p&gt;&#xA;&lt;p&gt;Third Law of Robotics: A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>What is RFCs and how to use them</title>
       <link>https://firstlaw.io/posts/rfc/</link>
       <pubDate>Wed, 28 Jun 2023 14:10:21 +0300</pubDate>
-      
       <guid>https://firstlaw.io/posts/rfc/</guid>
-      <description>Today my colleague shared that they started to use RFCs inside of their development team. I was surprised in a way that I thought &amp;ldquo;why it&amp;rsquo;s not a common practice?&amp;rdquo;. I know that it&amp;rsquo;s not a common practice because I never used it in my previous companies. But I think it&amp;rsquo;s a good practice and I want to share it with you.
-What is RFC? RFC stands for Request for Comments.</description>
+      <description>&lt;p&gt;Today my colleague shared that they started to use RFCs inside of their development team. I was surprised in a way that I thought &amp;ldquo;why it&amp;rsquo;s not a common practice?&amp;rdquo;. I know that it&amp;rsquo;s not a common practice because I never used it in my previous companies. But I think it&amp;rsquo;s a good practice and I want to share it with you.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-rfc&#34;&gt;What is RFC?&lt;/h2&gt;&#xA;&lt;p&gt;RFC stands for Request for Comments. It&amp;rsquo;s a document that describes a new feature or a change to the existing system. It should describe a problem and proposed solution. It&amp;rsquo;s used to discuss the change with the team and to get feedback from the team.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Why to make PhD while working full-time</title>
       <link>https://firstlaw.io/posts/why-to-phd/</link>
       <pubDate>Wed, 28 Jun 2023 14:10:21 +0300</pubDate>
-      
       <guid>https://firstlaw.io/posts/why-to-phd/</guid>
-      <description>How it started My PhD journey started in 2022. I was working full-time as a software engineer and I was doing my masters part-time. The masters journey was challanging but doable, and I finished cum laude. So I started to talk with other PhD students, why they are doing it, how they do it, etc. Appeared, that everyone has their own reasons and their own way of doing it. The main reasons for my peers were the interest in the topic and the desire to learn more about the topic.</description>
+      <description>&lt;h2 id=&#34;how-it-started&#34;&gt;How it started&lt;/h2&gt;&#xA;&lt;p&gt;My PhD journey started in 2022. I was working full-time as a software engineer and I was doing my masters part-time. The masters journey was challanging but doable, and I finished cum laude. So I started to talk with other PhD students, why they are doing it, how they do it, etc. Appeared, that everyone has their own reasons and their own way of doing it. The main reasons for my peers were the interest in the topic and the desire to learn more about the topic. Many mentioned that they are not interested in teaching, but research is something that facinates them.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
