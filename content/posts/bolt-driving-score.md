@@ -9,6 +9,8 @@ A few months ago I rented a Bolt van, and at the end of my trip I got a score: 9
 
 I don't have any insider info on how Bolt's scoring works, so think of this as me working through the question out loud rather than any kind of legal verdict.
 
+![Bolt ride summary showing a 97/100 driving score](/images/bolt-score.png)
+
 ## Wait, What's the EU AI Act Again?
 
 With "AI" slapped on everything from toasters to toothbrushes, you might have missed this one. Basically, it's a set of EU rules that sorts AI systems into risk categories. The one that matters most for everyday stuff is "high-risk" — systems that affect things like your access to services, your credit, or how companies treat you based on profiling.
