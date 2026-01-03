@@ -40,3 +40,10 @@ If you've ever sent a GDPR request asking a company "what data do you have on me
 The explanation rights come into force in August 2026. That's not far off. For companies running these kinds of scoring systems, the clock is ticking. For the rest of us, it means we'll soon have a way to peek behind the curtain when an algorithm decides something about us.
 
 As for my 97/100 — I'm still not sure what I did wrong.
+
+---
+
+## Sources
+
+- [Regulation (EU) 2024/1689 - Artificial Intelligence Act](https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng) (EUR-Lex)
+- [Bolt Drive rental cars in Estonia to start monitoring drivers' habits](https://news.err.ee/1609771413/bolt-drive-rental-cars-in-estonia-to-start-monitoring-drivers-habits) (ERR News)
