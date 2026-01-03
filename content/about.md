@@ -14,9 +14,9 @@ Third Law of Robotics: A robot must protect its own existence as long as such pr
 
 My name is Ekaterina Krivich and currently I live and learn in Estonia. I am a PhD student at Tallinn University. My research interests are in the field of Human-Computer Interaction, specifically in the area of deep learning and causal inference, with applications to affective computing.
 
-I also work for many years as a software developer, my main area of expertise is backend development and infrastructure as code. I have experience in building distributed systems, microservices, and cloud-native applications. I am a big fan of Elixir programming language.
+I have worked for many years as a software developer and recently transitioned to applied research. My main area of expertise is deep learning and data analysis, including predictive models. I have experience in building distributed systems, microservices, and cloud-native applications. I am a big fan of functional programming.
 
-I have an interest in making technology understandable by everyone, so I work together with [ITTalent](https://www.ittalent.ee/) and teach technical recruiters.
+I have an interest in making technology understandable by everyone, so I worked together with [ITTalent](https://www.ittalent.ee/) and taught technical recruiters.
 
 What it all has to do with Laws of Robotics? When I was a child, I was a big fan of Isaac Asimov and his books. I believe that we should be careful with technology and use it for good.
 
